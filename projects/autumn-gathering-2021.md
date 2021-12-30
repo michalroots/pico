@@ -34,7 +34,7 @@ The weather during the gathering included a lot of heavy rainfall, therefore we 
 
 **Building the roof was the biggest challenge during the site prep**. A team of volunteers coordinated by the core team member responsible for the site managed to build a semi-permanent structure from locally sourced free wood, nails, and tarp. Total cost of the roof: €70 + tarp donated from the community.
 
-* [ ] Add roof building documentation from Daniel.
+[Here's how](./.gitbook/assets/ruin-roof-pico-gathering.pdf) we built the roof.
 
 The roof is not designed to withstand a hurricane, however it has effectively sheltered the participants during heavy rainfalls. We decided to leave it for winter, in order to keep using the space for community events.
 
