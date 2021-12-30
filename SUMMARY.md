@@ -1,0 +1,32 @@
+# Table of contents
+
+* [About](README.md)
+* [What is Microsolidarity?](what-is-microsolidarity.md)
+* [Our Congregation](congregation.md)
+* [Congregation Projects](projects/README.md)
+  * [Pico Coop](projects/pico-coop.md)
+  * [Gatherings](projects/gatherings.md)
+  * [Autumn Gathering 2021 🍂](projects/autumn-gathering-2021.md)
+  * [Summer Gathering 2021 ☀️](projects/summer-gathering-2021.md)
+  * [Sharing Circle 🌀](projects/sharing-circle/README.md)
+    * [Sharing Circle v4](projects/sharing-circle/sharing-circle-v4.md)
+    * [Sharing Circle v3](projects/sharing-circle/sharing-circle-v3.md)
+    * [Sharing Circle v2](projects/sharing-circle/sharing-circle-v2.md)
+    * [Sharing Circle v1](projects/sharing-circle/sharing-circle-v1.md)
+  * [Evolving Experiences ✨](projects/evolving-experiences.md)
+  * [Pico Animal Sanctuary 🐱](projects/pico-animal-sanctuary.md)
+  * [Elementals Drum Crew 🥁](projects/drum-crew.md)
+  * [Winter Gathering 2020 💙](projects/winter-gathering-2020.md)
+  * [Community Action](projects/community-action.md)
+* [Pico Projects Map 🗺](pico-projects-map.md)
+* [About Pico Island](about-pico-island.md)
+* [Our Stories](our-stories.md)
+* [Azores Regenerative Network](azores-regenerative-network.md)
+* [Meta](meta.md)
+* [Newsletter 💌](https://picomicrosolidarity.substack.com)
+
+## Resources
+
+* [Microsolidarity](https://microsolidarity.cc)
+* [Pico Gathering Fire Starter](resources/pico-gathering-fire-starter.md)
+* [Our Dream Communities](resources/our-dream-communities.md)
