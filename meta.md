@@ -28,7 +28,7 @@ You can reach out to me anytime via [twitter](https://twitter.com/michalkorzonek
 
 ### Support
 
-If this documentation was useful to you and/or your community, and you feel the call to support our work, **consider making a donation via** [**Buy Me A Coffee**](https://www.buymeacoffee.com/michalkorzonek). Financial energy helps me dedicate more time to doing microsolidarity work and improving this documentation for the benefit of all beings.
+If this documentation was useful to you and/or your community, and you feel the call to support our work, **consider  supporting my work on [Patreon](https://patreon.com/michalkorzonek) or making a donation via** [**Buy Me A Coffee**](https://www.buymeacoffee.com/michalkorzonek). Financial energy helps me dedicate more time to doing microsolidarity work and improving this documentation for the benefit of all beings.
 
 ### Copyrights
 
