@@ -4,7 +4,7 @@ description: Private Cinema Club
 
 # Pico Cine Club
 
-![The map of the site.](../.gitbook/assets/pico-cine-clubjpg)
+![The logo v1](../.gitbook/assets/pico-cine-club.jpg)
 
 We're starting a Cinema Club.
 
