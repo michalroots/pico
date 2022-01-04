@@ -15,6 +15,7 @@
     * [Sharing Circle v1](projects/sharing-circle/sharing-circle-v1.md)
   * [Evolving Experiences ✨](projects/evolving-experiences.md)
   * [Pico Animal Sanctuary 🐱](projects/pico-animal-sanctuary.md)
+  * [Pico Cine Club 🎥](/projects/pico-cine-club.md)
   * [Elementals Drum Crew 🥁](projects/drum-crew.md)
   * [Winter Gathering 2020 💙](projects/winter-gathering-2020.md)
   * [Community Action](projects/community-action.md)
