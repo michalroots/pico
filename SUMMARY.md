@@ -5,6 +5,7 @@
 * [Our Congregation](congregation.md)
 * [Congregation Projects](projects/README.md)
   * [Pico Coop](projects/pico-coop.md)
+  * [Pico Network](projects/pico-network.md)
   * [Gatherings](projects/gatherings.md)
   * [Autumn Gathering 2021 🍂](projects/autumn-gathering-2021.md)
   * [Summer Gathering 2021 ☀️](projects/summer-gathering-2021.md)
