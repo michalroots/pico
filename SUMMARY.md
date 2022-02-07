@@ -18,6 +18,7 @@
   * [Pico Animal Sanctuary 🐱](projects/pico-animal-sanctuary.md)
   * [Pico Cine Club 🎥](/projects/pico-cine-club.md)
   * [Elementals Drum Crew 🥁](projects/drum-crew.md)
+  * [Inter Island Book Club 📚](projects/inter-island-book-club.md)
   * [Winter Gathering 2020 💙](projects/winter-gathering-2020.md)
   * [Community Action](projects/community-action.md)
 * [Pico Projects Map 🗺](pico-projects-map.md)
