@@ -18,11 +18,9 @@ The process began with a simple sense-making mechanism (*dot voting* - each pers
 
 We then reflected on **how would we like to distribute the money**, using the *dot voting* system with three dots per person. The most popular option was to *bring 100% of profit into the COOP*, which would then pay a salary to people organising events based on a weekly hour budget. 
 
-TODO: Add two scans from Piconomics Sensemaking #2 
+![Piconomics Sensemaking: case study](../.gitbook/assets/piconomics-case-study.jpg)
 
-![Piconomics Sensemaking: case study](.gitbook/assets/piconomics-case-study.jpeg)
-
-![Piconomics Sensemaking: Money Distribution Models](.gitbook/assets/piconomics-money-models.jpeg)
+![Piconomics Sensemaking: Money Distribution Models](../.gitbook/assets/piconomics-money-models.jpg)
 
 Unfortunately only 4 people participated in the voting, and we do not have a COOP established at the time of voting. 
 
