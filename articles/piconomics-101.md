@@ -14,7 +14,7 @@ In 2022 we started to hold more community events, which naturally brought up the
 
 The process began with a simple sense-making mechanism (*dot voting* - each person has two dots to distribute as they please between the options), reflecting on **how would we want to pay for community events.** *Magic Hat* model was the most popular. 7 people participated in the voting.
 
-![Piconomics Sensemaking: How to Pay for Events](.gitbook/assets/piconomics-events.jpg)
+![Piconomics Sensemaking: How to Pay for Events](../.gitbook/assets/piconomics-events.jpg)
 
 We then reflected on **how would we like to distribute the money**, using the *dot voting* system with three dots per person. The most popular option was to *bring 100% of profit into the COOP*, which would then pay a salary to people organising events based on a weekly hour budget. 
 
