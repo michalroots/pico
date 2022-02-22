@@ -24,8 +24,8 @@ We also have an intention of creating a **magnetic pull bringing more Microsolid
 ## About this Site
 This documentation is compiled by [Michał Korzonek](https://michalkorzonek.com), a community weaver and catalyst. I believe **it's an important work, but not easy to get paid for**. If you'd like to contribute financially, you can:
 - **make a small regular contribution** via my [Patreon page](https://www.patreon.com/michalkorzonek)
-- **work with me** on weaving your community and/or creating great documentation for it
 - contribute with **cryptocurrency**
+- **work with me** on weaving your community and/or creating great documentation for it
 
 ## Contact
 You can contact Michał via [twitter](https://twitter.com/michalkorzonek) or email: michal {dot} korzonek {at} {protonmail} {com}.
