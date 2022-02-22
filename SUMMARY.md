@@ -24,6 +24,8 @@
 * [Pico Projects Map 🗺](pico-projects-map.md)
 * [About Pico Island](about-pico-island.md)
 * [Our Stories](our-stories.md)
+* [Articles](/articles/README.md)
+	* [Piconomics 101 🍪](articles/piconomics-101.md)
 * [Azores Regenerative Network](azores-regenerative-network.md)
 * [Meta](meta.md)
 * [Newsletter 💌](https://picomicrosolidarity.substack.com)
