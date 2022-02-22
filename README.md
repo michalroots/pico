@@ -1,5 +1,5 @@
 ---
-description: Microsolidarity in Pico
+description: We're weaving a community in Pico Island by practicing microsolidarity. Here's our documentation.
 ---
 
 # Microsolidarity in Pico
@@ -35,11 +35,3 @@ You can contact Michał via [twitter](https://twitter.com/michalkorzonek) or ema
 
 ## Copyrights
 All the content on this site is published with a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. So please use it however you like without asking permission: just give credit, and use the same license for derivative works.
-
-
-
-
-
-
-
-
