@@ -10,8 +10,8 @@ We expect that with time the amount of people will grow, and we’ll split into 
 
 We're growing our congregation organically, starting with developing **emotional proximity before jumping into projects**. We begun our microsolidarity work by creating a bi-weekly sharing circle, which acted as the "community heartbeat" and a space to get to know each other. The circle started in August 2020 and continues until today.
 
-{% content-ref url="projects/sharing-circle/" %}
-[sharing-circle](projects/sharing-circle/)
+{% content-ref url="projects/sharing-circle/README.md" %}
+[sharing-circle](projects/sharing-circle/README.md)
 {% endcontent-ref %}
 
 While we haven't been focusing on creating projects together, projects are emerging naturally (which is totally our intention anyway 😂). You can see what's happening here ⤵️
