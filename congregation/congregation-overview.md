@@ -26,16 +26,16 @@ We're in the process of setting up a "scaffolding" for our congregation, based a
 
 We've started with a (quite disorganised) [winter gathering](projects/winter-gathering-2020.md) in December 2020, and hosted our first "proper" gathering in June 2021.
 
-{% content-ref url="projects/summer-gathering-2021.md" %}
-[summer-gathering-2021.md](projects/summer-gathering-2021.md)
+{% content-ref url="/projects/summer-gathering-2021.md" %}
+[Pico Summer Gathering 2021](/projects/summer-gathering-2021.md)
 {% endcontent-ref %}
 
 The Summer Gathering was a great success, and we intend to continue with a bi-annual rhythm, moving to Spring + Autumn rather than Summer + Winter, as it fits better to our context.
 
 Here's the full list of our gatherings to date:
 
-{% content-ref url="projects/gatherings.md" %}
-[gatherings.md](projects/gatherings.md)
+{% content-ref url="/projects/gatherings.md" %}
+[Gatherings](/projects/gatherings.md)
 {% endcontent-ref %}
 
 At the moment we're not planning on hosting extra activities in between gatherings (apart from the sharing circles), as there are numerous occasions for us to meet quite regularly anyway (think birthdays, music jams etc.). This is a part of our unique context in Pico: since we all live close together, we end up spending a lot of time together anyway, and the meeting spaces emerge naturally without much catalysing.
