@@ -32,7 +32,7 @@
 	- [Our Dream Communities](resources/our-dream-communities.md)
 	- [What is Microsolidarity?](resources/what-is-microsolidarity.md)
 	- [Our Stories](/resources/our-stories.md)
-	- [Elders](elders.md)
+	- [Elders](resources/elders.md)
 - [Participate](/participate/README.md)
 	- [Connect](participate/connect.md)
 	- [Contribute](participate/contribute.md)
