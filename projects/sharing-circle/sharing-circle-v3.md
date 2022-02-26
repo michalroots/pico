@@ -23,7 +23,7 @@ We're bringing new people in slowly and gradually. Any current participant can s
 
 ### Progress
 
-We decided to skip one circle as it coincided with our [Summer Gathering](https://app.gitbook.com/@heymichal/s/pico/\~/drafts/-MedKLOaeqvI7zQUXAAZ/projects/summer-gathering-2021). We then skipped another circle, as there were not enough people to participate (a few people left for the summer, and a few work in tourism which is very intense during the summer).
+We decided to skip one circle as it coincided with our [Summer Gathering](/projects/summer-gathering-2021). We then skipped another circle, as there were not enough people to participate (a few people left for the summer, and a few work in tourism which is very intense during the summer).
 
 We also decided to postpone the retrospective until the end of summer, to ensure more people participate.
 
