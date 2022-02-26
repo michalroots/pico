@@ -12,6 +12,13 @@ We're growing our congregation organically, starting with developing **emotional
 
 [Sharing circle](/projects/sharing-circle/README.md)
 
+aa
+
+{% content-ref url="/projects/sharing-circle/README.md" %}
+[Sharing circle](/projects/sharing-circle/README.md)
+{% endcontent-ref %}
+
+
 {% content-ref url="projects/sharing-circle/README.md" %}
 [sharing-circle](projects/sharing-circle/README.md)
 {% endcontent-ref %}
