@@ -1,5 +1,5 @@
 ---
-description: Asynchronous channel for digital comms
+description: A list of books that marked us.
 ---
 
 # Inter Island Book Club 📚
