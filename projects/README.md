@@ -5,7 +5,7 @@ description: Projects conceived within our congregation.
 # Congregation Projects
 
 {% hint style="info" %}
-Ihis page lists projects catalysed from our congregation. There are many more things happening in Pico, you can see them in our [Pico Projects Map](../pico-projects-map.md).
+Ihis page lists projects catalysed from our congregation. There are many more things happening in Pico, you can see them in our [Pico Projects Map](pico-projects-map.md).
 {% endhint %}
 
 ### Active Projects
@@ -23,11 +23,11 @@ Ihis page lists projects catalysed from our congregation. There are many more th
 {% endcontent-ref %}
 
 {% content-ref url="../pico-projects-map.md" %}
-[pico-projects-map.md](../pico-projects-map.md)
+[pico-projects-map.md](pico-projects-map.md)
 {% endcontent-ref %}
 
 {% content-ref url="../meta.md" %}
-[meta.md](../meta.md)
+[meta.md](elders.md)
 {% endcontent-ref %}
 
 ### Seeding Projects 🌱
@@ -54,7 +54,7 @@ Project ideas that are still baby seeds, but are receiving some energy.
 To learn about other projects happening in Pico, check out our Pico Projects Map ⤵️
 
 {% content-ref url="../pico-projects-map.md" %}
-[pico-projects-map.md](../pico-projects-map.md)
+[pico-projects-map.md](pico-projects-map.md)
 {% endcontent-ref %}
 
 In this section you'll learn about projects within our congregation.
@@ -63,4 +63,4 @@ The whole process started with hosting a bi-weekly [sharing circle](sharing-circ
 
 During our [Autumn Gathering 2021](autumn-gathering-2021.md), we played a game designed to catalyse more projects into existence, which will be reviewed during our next gathering planned for Spring 2022.
 
-You can also see the [Pico Projects Map](../pico-projects-map.md) for other projects in the island.
+You can also see the [Pico Projects Map](pico-projects-map.md) for other projects in the island.

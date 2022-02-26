@@ -1,9 +1,11 @@
 # Table of contents
 
 * [About](README.md)
-* [What is Microsolidarity?](what-is-microsolidarity.md)
-* [Our Congregation](congregation.md)
-* [Congregation Projects](projects/README.md)
+* [Azores Regenerative Network](azores-regenerative-network.md)
+* [Pico Congregation](/congregation/README.md)
+	* [Congregation Overview](congregation/congregation-overview.md)
+	* [Pico Island](congregation/pico-island.md)
+* [Crews & Projects](projects/README.md)
   * [Pico Coop](projects/pico-coop.md)
   * [Pico Network](projects/pico-network.md)
   * [Gatherings](projects/gatherings.md)
@@ -18,20 +20,26 @@
   * [Pico Animal Sanctuary 🐱](projects/pico-animal-sanctuary.md)
   * [Pico Cine Club 🎥](/projects/pico-cine-club.md)
   * [Elementals Drum Crew 🥁](projects/drum-crew.md)
-  * [Inter Island Book Club 📚](projects/inter-island-book-club.md)
   * [Winter Gathering 2020 💙](projects/winter-gathering-2020.md)
   * [Community Action](projects/community-action.md)
-* [Pico Projects Map 🗺](pico-projects-map.md)
-* [About Pico Island](about-pico-island.md)
-* [Our Stories](our-stories.md)
+  * [Pico Projects Map 🗺](projects/pico-projects-map.md)
 * [Articles](/articles/README.md)
 	* [Piconomics 101 🍪](articles/piconomics-101.md)
-* [Azores Regenerative Network](azores-regenerative-network.md)
-* [Meta](meta.md)
+	* [Inter Island Book Club 📚](articles/inter-island-book-club.md)
+- [Resources](/resources/README.md)
+	- [Microsolidarity](https://microsolidarity.cc)
+	- [Pico Gathering Fire Starter](resources/pico-gathering-fire-starter.md)
+	- [Our Dream Communities](resources/our-dream-communities.md)
+	- [What is Microsolidarity?](resources/what-is-microsolidarity.md)
+	- [Our Stories](/resources/our-stories.md)
+	- [Elders](elders.md)
+- [Participate](/participate/README.md)
+	- [Connect](participate/connect.md)
+	- [Contribute](participate/contribute.md)
+	- [Join Microsolidarity Network](https://www.microsolidarity.cc/participate/join-us-on-discord)
 * [Newsletter 💌](https://picomicrosolidarity.substack.com)
 
-## Resources
 
-* [Microsolidarity](https://microsolidarity.cc)
-* [Pico Gathering Fire Starter](resources/pico-gathering-fire-starter.md)
-* [Our Dream Communities](resources/our-dream-communities.md)
+
+
+

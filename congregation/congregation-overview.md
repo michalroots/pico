@@ -2,7 +2,7 @@
 description: Bird's eye view of our community.
 ---
 
-# Our Congregation
+# Pico Congregation Overview
 
 Our congregation started as a small group, which allowed us to operate as one unit.
 
