@@ -18,4 +18,4 @@ description: Acknowledging our lineage.
 
 [Hundred Rabbits](https://100r.co/site/home.html) – experiments on resilience and self-reliance through low-tech solutions, with amazing documentation.
 
-Eternal gratitude 🙌
+Eternal gratitude to all of you 🙌

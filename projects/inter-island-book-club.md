@@ -2,6 +2,8 @@
 description: Asynchronous channel for digital comms
 ---
 
+# Inter Island Book Club 📚
+
 When visiting Faial Island we had a small impromptu gathering, when we shared **books that made big impact on us**.
 
 Here's the list:
