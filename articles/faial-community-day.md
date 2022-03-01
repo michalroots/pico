@@ -21,13 +21,15 @@ Here's the outline:
 1. Check in: *how are you feeling? why are you here?*
 2. Theory: different community models; microsolidarity 101
 3. Sharing: lessons from two years of implementing microsolidarity in Pico
-4. Lunch break
+4. Lunch break 🥑
 5. Practice: [Community Council](https://michalkorzonek.com/community-council) - round of mapping & round of calls
 6. Check out: *how are you feeling? what are you taking away?*
 
-I've delivered the workshop using *Cards* - an analogue collaborative meta game I've been developing over the last two years, inspired by [Zettlekasten method](https://zettelkasten.de/introduction/) and "*The Game*" which I've been introduced to a few years back while living in [Astralship](https://astralship.org).
+I've delivered the workshop using *Cards* - an analogue collaborative meta game I've been developing over the last two years, inspired by [Zettlekasten method](https://zettelkasten.de/introduction/) and "*The Game*" developed by the hacker community, which I've been introduced to a few years back while living in [Astralship](https://astralship.org).
 
 {% embed url="https://twitter.com/michalkorzonek/status/1497572106590117891?s=20&t=OHbFQh69b_mb9zSRvmLaGw" %}
+
+(If the tweet above doesn't load, [click here](https://twitter.com/michalkorzonek/status/1497572106590117891?s=20&t=OHbFQh69b_mb9zSRvmLaGw).)
 
 Cards for part 2 in full display:
 
