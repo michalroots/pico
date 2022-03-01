@@ -77,6 +77,7 @@ You can reach me via [twitter](https://twitter.com/michalkorzonek) or email: mic
 If you'd like to receive an occasional email with the most significant updates to this documentation, I invite you to [subscribe here](https://picomicrosolidarity.substack.com).
 
 ## Resources
+- [Twitter thread](https://twitter.com/michalkorzonek/status/1498665205647261700) for Faial Community Day
 - [Microsolidarity](https://microsolidarity.cc) - community building practice by Richard Bartlett
 - [Community Council](https://michalkorzonek.com/community-council) - a community catalysing game by Michał Korzonek
 - [How to Start a Sharing Circle With Your Loved Ones (and Why You Should)](https://betterhumans.pub/how-to-start-a-sharing-circle-with-your-loved-ones-and-why-you-should-8fa67d5b93aa) - an article by Silvia Bastos
