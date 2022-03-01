@@ -6,7 +6,7 @@ description: A community weaving workshop in Faial Island.
 
 One of my favourite things about living in Pico, is that it's a part of an archipelago of nine islands - each with their unique energy, landscape, and opportunities. **Each island is a world, and together they form a galaxy.**
 
-I've recently had a pleasure to facilitate a **community weaving workshop** in Pico's closest neighbour - Faial island. This marks a significant step on the journey towards co-creating [Azores Regenerative Network](azores-regenerative-network.md).
+I've recently had a pleasure to facilitate a **community weaving workshop** in Pico's closest neighbour - Faial island. This marks a significant step on the journey towards co-creating [Azores Regenerative Network](/azores-regenerative-network.md).
 
 Here's a part of the invitation:
 
@@ -41,7 +41,7 @@ The story and lessons from Microsolidarity in Pico:
 
 ![Cards with milestones of Pico Congregation](../.gitbook/assets/cards-pico-milestones.jpeg)
 
-Note: Here are the [milestones](congregation/milestones.md) of our Pico congregation.
+Note: Here are the [milestones](/congregation/milestones.md) of our Pico congregation.
 
 ### Community Council
 [Community Council](https://michalkorzonek.com/community-council) is a modular community catalysing game. In this iteration we played two rounds.
