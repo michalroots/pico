@@ -36,3 +36,4 @@ It's worth noting that at the moment **our Congregation do not have a decision-m
 - [Decisions Agreement](https://handbook.enspiral.com/agreements/decisions) from Enspiral Handbook
 - [Generative Decision Making Process](https://medium.com/percolab-droplets/generative-decision-making-process-cf0b131c5ac4) by Samantha Slade
 - [How we make decentralized decisions](https://medium.com/the-caring-network-company/how-we-make-decentralized-decisions-ad869417b772) by Manuel Küblböck
+- [Money & networks: 4 common challenges](https://medium.com/greaterthan/financial-decision-making-in-self-organized-networks-4-common-challenges-bd71489151e0) by Francesca Pick

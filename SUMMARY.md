@@ -4,6 +4,7 @@
 * [Azores Regenerative Network](azores-regenerative-network.md)
 * [Pico Congregation](/congregation/README.md)
 	* [Congregation Overview](congregation/congregation-overview.md)
+	* [Milestones](congregation/milestones.md)
 	* [Pico Island](congregation/pico-island.md)
 * [Crews & Projects](projects/README.md)
   * [Pico Coop](projects/pico-coop.md)
