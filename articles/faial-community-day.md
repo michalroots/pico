@@ -10,13 +10,9 @@ I've recently had a pleasure to facilitate a **community weaving workshop** in P
 
 Here's a part of the invitation:
 
----
-
-The word "community" can mean many different things. It can be challenging to align on a shared vision. And it can be even more challenging to actually work together and manifest our dreams. Yet, it's hard to shake off the feeling that **creating together is not only more effective but also more fun**. How could we do it effectively, given the context of our beautiful island?
-
-The intention of this gathering is to **get practical and move our collective energy forward**. 
-
----
+>The word "community" can mean many different things. It can be challenging to align on a shared vision. And it can be even more challenging to actually work together and manifest our dreams. Yet, it's hard to shake off the feeling that **creating together is not only more effective but also more fun**. How could we do it effectively, given the context of our beautiful island?
+>
+> The intention of this gathering is to **get practical and move our collective energy forward**. 
 
 ## The Workshop
 
