@@ -10,7 +10,7 @@ This page outlines the milestones of our congregation in chronological order.
 
 **Arrival and Microsolidarity** (Feb 2020) - [Michał](https://michalkorzonek.com) arrives in Pico Island, which coincides with discovering [Microsolidarity](https://microsolidarity.cc). He decides to learn by doing and begins a series of digital microsolidarity experiments. He then decides to implement microsolidarity in Pico.
 
-Note: here's my personal [Microsoldarity Journey](https://michalkorzonek.com/microsoldarity-journey).
+Note: here's my personal [Microsoldarity Journey](https://michalkorzonek.com/microsolidarity-journey).
 
 **Flatwarming Sharing Circle** (July 2020) - instead of hosting a flatwarming *party*, Michał and [Silvia](https://silviamakesdrawings.com) host a *sharing circle* with a theme: *New Beginnings*. The guests decide to continue with a [biweekly sharing circle](/projects/sharing-circle.md), which evolves into proto-congregation. The circle continues until Fall 2021.
 
