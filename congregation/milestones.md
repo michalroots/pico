@@ -10,13 +10,13 @@ This page outlines the milestones of our congregation in chronological order.
 
 **Arrival and Microsolidarity** (Feb 2020) - [Michał](https://michalkorzonek.com) arrives in Pico Island, which coincides with discovering [Microsolidarity](https://microsolidarity.cc). He decides to learn by doing and begins a series of digital microsolidarity experiments. He then decides to implement microsolidarity in Pico.
 
-Note: here's my personal [Microsoldarity Journey](https://michalkorzonek.com/microsolidarity-journey).
+Note: here's my personal [Microsolidarity Journey](https://michalkorzonek.com/microsolidarity-journey).
 
-**Flatwarming Sharing Circle** (July 2020) - instead of hosting a flatwarming *party*, Michał and [Silvia](https://silviamakesdrawings.com) host a *sharing circle* with a theme: *New Beginnings*. The guests decide to continue with a [biweekly sharing circle](/projects/sharing-circle.md), which evolves into proto-congregation. The circle continues until Fall 2021.
+**Flatwarming Sharing Circle** (July 2020) - instead of hosting a flatwarming *party*, Michał and [Silvia](https://silviamakesdrawings.com) host a *sharing circle* with a theme: *New Beginnings*. The guests decide to continue with a [biweekly sharing circle](/projects/sharing-circle/README.md), which evolves into proto-congregation. The circle continues until Fall 2021.
 
 **First Crew** (November 2020) - sharing circle bring together Annia and Jess who decide to launch our first crew: [Pico Animal Sanctuary](/projects/pico-animal-sanctuary.md), which is a manifestation of their lifelong dream.
 
-**Winter Gathering** (December 2020) - we decide to spend a few days together over Christmas. The [Gathering](projects/winter-gathering-2020) is quite messy, but catalyses energy for another [(drum)crew](/projects/drum-crew.md) and introduces a scaffolding to our congregation based around two gatherings per year.
+**Winter Gathering** (December 2020) - we decide to spend a few days together over Christmas. The [Gathering](/projects/winter-gathering-2020) is quite messy, but catalyses energy for another [(drum)crew](/projects/drum-crew.md) and introduces a scaffolding to our congregation based around two gatherings per year.
 
 **Summer Gathering** (June 2021) - we host [our first "proper" Gathering](/projects/summer-gathering-2021.md), with the intention to connect deeper, weave social fabric, and create opportunities for new projects to emerge.
 
@@ -26,7 +26,7 @@ Note: here's my personal [Microsoldarity Journey](https://michalkorzonek.com/mic
 
 **Distributing Initiative** (Spring 2022) - until this point most of the events and community developments were catalysed by Michał. While I'm delighted to remain of service as a catalyst for some time, it's vital that we distribute the initiative. After our Pico Community Day in February 2022 more people started to step into coordinating roles.
 
-**Piconomics** (February 2022) - We begin our [conversations about money](/articles/piconomics-101) and decision-making within the congregation.
+**Piconomics** (February 2022) - We begin our [conversations about money](/articles/piconomics-101.md) and decision-making within the congregation.
 
 **Faial Community Day** (February 2022) - Michał facilitates a [community weaving workshop](/articles/faial-community-day.md) in our neighbour island, Faial. The workshop marks the beginning of the journey towards co-creating [Azores Regenerative Network](/azores-regenerative-network.md).
 
