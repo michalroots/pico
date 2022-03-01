@@ -16,7 +16,7 @@ Note: here's my personal [Microsolidarity Journey](https://michalkorzonek.com/mi
 
 **First Crew** (November 2020) - sharing circle bring together Annia and Jess who decide to launch our first crew: [Pico Animal Sanctuary](/projects/pico-animal-sanctuary.md), which is a manifestation of their lifelong dream.
 
-**Winter Gathering** (December 2020) - we decide to spend a few days together over Christmas. The [Gathering](/projects/winter-gathering-2020) is quite messy, but catalyses energy for another [(drum)crew](/projects/drum-crew.md) and introduces a scaffolding to our congregation based around two gatherings per year.
+**Winter Gathering** (December 2020) - we decide to spend a few days together over Christmas. The [Gathering](/projects/winter-gathering-2020.md) is quite messy, but catalyses energy for another [(drum)crew](/projects/drum-crew.md) and introduces a scaffolding to our congregation based around two gatherings per year.
 
 **Summer Gathering** (June 2021) - we host [our first "proper" Gathering](/projects/summer-gathering-2021.md), with the intention to connect deeper, weave social fabric, and create opportunities for new projects to emerge.
 
