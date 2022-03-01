@@ -80,4 +80,4 @@ If you'd like to receive an occasional email with the most significant updates t
 - [Microsolidarity](https://microsolidarity.cc) - community building practice by Richard Bartlett
 - [Community Council](https://michalkorzonek.com/community-council) - a community catalysing game by Michał Korzonek
 - [How to Start a Sharing Circle With Your Loved Ones (and Why You Should)](https://betterhumans.pub/how-to-start-a-sharing-circle-with-your-loved-ones-and-why-you-should-8fa67d5b93aa) - an article by Silvia Bastos
-- [Sharing Circle](/projects/sharing-circle.md) - documentation of the Sharing Circle in Pico, which became our proto-congregation
+- [Sharing Circle](/projects/sharing-circle/README.md) - documentation of the Sharing Circle in Pico, which became our proto-congregation
