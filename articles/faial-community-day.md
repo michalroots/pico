@@ -31,15 +31,15 @@ I've delivered the workshop using *Cards* - an analogue collaborative meta game 
 
 *After the cards are ready, it's time to organise them into decks.*
 
-![Cards in display](/.gitbook/assets/cards-dream-community.jpeg)
+![Cards in display](../.gitbook/assets/cards-dream-community.jpeg)
 
 *Cards for part 2 in full display*
 
-![Compacted version of cards](/.gitbook/assets/cards-dream-community-compact.jpeg)
+![Compacted version of cards](../.gitbook/assets/cards-dream-community-compact.jpeg)
 
 *Compacted version to make space for part 3*
 
-![Cards with milestones of Pico Congregation](/.gitbook/assets/cards-pico-milestones.jpeg)
+![Cards with milestones of Pico Congregation](../.gitbook/assets/cards-pico-milestones.jpeg)
 
 *The story and lessons from Microsolidarity in Pico.*
 
@@ -52,11 +52,11 @@ Note: Here are the [milestones](congregation/milestones.md) of our congregation.
 
 A wonderful moment occurred when one of the participants asked if there's a Tai Chi group in the island, and that was the project that was just about to be placed on the map.
 
-![Mapping existing crews and projects in Faial](/.gitbook/assets/faial-mapping.jpeg)
+![Mapping existing crews and projects in Faial](../.gitbook/assets/faial-mapping.jpeg)
 
 **Round of Calls** resulted in calling 8 projects, with 6 of them receiving enough energy to begin. The next step is for the callers to reach out to people on the "List of Connections" to arrange the kick-off meeting.
 
-![Cards with milestones of Pico Congregation](/.gitbook/assets/faial-connections.jpeg)
+![Cards with milestones of Pico Congregation](../.gitbook/assets/faial-connections.jpeg)
 
 **The main intention is to experiment with crewing and begin to build trust.** The success of the project is a secondary objective.
 
