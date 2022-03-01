@@ -29,21 +29,19 @@ I've delivered the workshop using *Cards* - an analogue collaborative meta game 
 
 {% embed url="https://twitter.com/michalkorzonek/status/1497572106590117891?s=20&t=OHbFQh69b_mb9zSRvmLaGw" %}
 
-*After the cards are ready, it's time to organise them into decks.*
+Cards for part 2 in full display:
 
 ![Cards in display](../.gitbook/assets/cards-dream-community.jpeg)
 
-*Cards for part 2 in full display*
+Compacted version to make space for part 3:
 
 ![Compacted version of cards](../.gitbook/assets/cards-dream-community-compact.jpeg)
 
-*Compacted version to make space for part 3*
+The story and lessons from Microsolidarity in Pico:
 
 ![Cards with milestones of Pico Congregation](../.gitbook/assets/cards-pico-milestones.jpeg)
 
-*The story and lessons from Microsolidarity in Pico.*
-
-Note: Here are the [milestones](congregation/milestones.md) of our congregation.
+Note: Here are the [milestones](congregation/milestones.md) of our Pico congregation.
 
 ### Community Council
 [Community Council](https://michalkorzonek.com/community-council) is a modular community catalysing game. In this iteration we played two rounds.
