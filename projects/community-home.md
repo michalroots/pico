@@ -13,4 +13,4 @@ If you'd like to help us make this dream a reality and invest / contribute finan
 
 Thank you for Being 💜
 
-![Group Photo](/.gitbook/assets/spring-2022-group-photo.jpg)
+![Group Photo](/.gitbook/assets/spring-2022-group-photo.jpeg)

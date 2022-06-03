@@ -37,7 +37,7 @@ Here's how it happened.
 
 ![Pico Community Gathering](/.gitbook/assets/pico-gathering-doors.jpeg)
 
-*Photos by [Austeja Liupševičiūtė](https://austejaliu.com){:target="_blank"}, [Michał Korzonek](https://michalkorzonek.com) and Veronice.*
+*Photos by [Austeja Liupševičiūtė](https://austejaliu.com), [Michał Korzonek](https://michalkorzonek.com) and Veronice.*
 
 ## Practical Details
 - We gathered for 3 full days
