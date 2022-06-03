@@ -148,9 +148,9 @@ Spoiler alert: it was the best decision we could have ever made.
 
 **Opening** - this time, the main dish of the Opening Ceremony was designing the program together. Before we jumped into it, we had a moment of sharing and created secret handshakes in pairs. Perhaps we can continue with creating new handshakes every Gathering until we have our personal way of greeting everyone in the congregation? 😂
 
-HANDSHAKE VIDEO TWEET VIDEO
+{% embed url="https://twitter.com/michalkorzonek/status/1532808617614790657?s=20&t=bXeqhZZ_8gnKbWyr3vgBPw" %}
 
-*Link to [tweet]().*
+*Link to [tweet](https://twitter.com/michalkorzonek/status/1532808617614790657?s=20&t=bXeqhZZ_8gnKbWyr3vgBPw).*
 
 **Waltdorf School Style Drawing Workshop** - we created portraits of each other and "community generated drawings", where we pass drawings around in quick rounds building upon what has been drawn.
 
@@ -293,9 +293,9 @@ If you'd like to hear from us whenever we publish a significant update on this w
 ## Beautiful Moments
 Every Gathering is made of beautiful moments. Here are some of my favourites from the Pico Spring Gathering 2022 compiled into a twitter thread (click on it to see the whole thread).
 
-TWITTER THREAD
+{% embed url="https://twitter.com/michalkorzonek/status/1532808535695826949?s=20&t=bXeqhZZ_8gnKbWyr3vgBPw" %}
 
-If it doesn't load for some reason, [click here]().
+If it doesn't load for some reason, [click here](https://twitter.com/michalkorzonek/status/1532808535695826949?s=20&t=bXeqhZZ_8gnKbWyr3vgBPw).
 
 ## Energy Exchange
 Hey👋  Michał here, the guy who brings people together in Pico Island and documents the process on this website. If you'd like to encourage me to do more meaningful work in Pico and beyond, I invite you to support me via [Patreon](https://patreon.com/michalkorzonek), or get in touch for a larger financial contribution and / or crypto: michalroots {at} proton.me . Your support makes a tremendous difference, and it helps me transition into the circular gift economy 🌳. Thank you for Being!
