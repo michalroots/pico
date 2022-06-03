@@ -61,6 +61,10 @@ Note that the steps don't need to happen in that order.
 * participation form
 * core hosting team + contact details
 
+**Previous invitations:**
+- [ ] add link to Pico Summer Community Gathering 2021
+- [ ] add link to Pico Autumn Community Gathering 2021
+
 #### Participation Form
 
 * name
