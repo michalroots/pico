@@ -23,7 +23,7 @@ It's worth noting the unique context of our island, due to the fact that we're a
 
 One of the challenges we have been navigating is that the energy of Pico encourages "going within", and people are busy with their livelihoods, families, and tending their gardens, often leaving little energy to actively bring new ideas to the congregation.
  
-In the context of the two past Gatherings ([Summer](/projects/summer-gathering-2021.md) and [Autumn](/projects/autumn-gathering-2021.md)) it resulted in pretty much a top-down design, and the core team carried the organising work, as well as facilitating almost all of the activities during the gathering, while managing the logistics etc. The rest of the community eagerly contributed their time and energy to help in any way possible (cooking, site prep etc.), however the top-down structure and relying on the catalysing energy from few individuals felt both draining and limiting in terms of possibilities that could emerge from within our group.
+In the context of the two past Gatherings ([Summer](/projects/summer-gathering-2021.md) and [Autumn](/projects/autumn-gathering-2021.md) 2021) it resulted in pretty much a top-down design, and the core team carried the organising work, as well as facilitating almost all of the activities during the gathering, while managing the logistics etc. The rest of the community eagerly contributed their time and energy to help in any way possible (cooking, site prep etc.), however the top-down structure and relying on the catalysing energy from few individuals felt both draining and limiting in terms of possibilities that could emerge from within our group.
 
 From early 2022 we have begun to discuss this issue more openly with **the intention to encourage more people to step into contributing posture**, and our Spring Gathering was a game changer in that area.
 
@@ -59,7 +59,7 @@ Here's [the invitation](https://docs.google.com/document/d/1d80KiO6tKb2o1aEzZ3rj
 
 Our site included a campsite, ruin with a roof (serving as our community centre), a fire space, and a cabin. There was also another private house offered as a "tea house" and two more private houses - one serving as a kitchen and other as eating area and backup activity space in case of bad weather. All venues are located within 10 minute walk.
 
-![Site of the Gathering](/.gitbook/assets/spring-gathering-map.jpeg)
+![Map of the Site](/.gitbook/assets/spring-gathering-map.jpeg)
 
 It's the third time that we're hosting our Gatherings in this space, and every time we are gradually improving it, with everyone helping out during prep days. 
 
@@ -138,6 +138,8 @@ Spoiler alert: it was the best decision we could have ever made.
 
 *Which resulted in a beautiful plan for our days together fitting the needs of participants.*
 
+![Full Program](/.gitbook/assets/designed-program.jpg)
+
  It's worth noting that there are very few people in our congregation who have previous facilitating experience. Bringing more people into hosting posture is a huge progress for our group, and a big step towards distributing initiative.
 
 ### Activities
@@ -185,6 +187,10 @@ It's worth mentioning that *Pico Coop* was the project that received the most su
 
 *Kids presenting their design for our community space on the lounge area*
 
+Here's the scan of their creation:
+
+![Community Space Map Made By Kids Scan](/.gitbook/assets/kids-design.jpg)
+
 **The Power of 10** - A workshop visualising mathematics
 
 ![Power of Ten](/.gitbook/assets/power-of-ten.jpeg)
@@ -225,10 +231,14 @@ A notable addition to the game was adding a Portuguese translation to the Tokeno
 
 Here's the scan of our gratitude ledger.
 
-SCAN GRATI LEDGER PICO
+![Page 1](/.gitbook/assets/pico-gratitude1.jpg)
 
-## Reflection on Theme
-Interestingly, we didn't really tackle the theme of the Gathering. This is
+![Page 2](/.gitbook/assets/pico-gratitude2.jpg)
+
+![Page 3](/.gitbook/assets/pico-gratitude3.jpg)
+
+## Reflection on the Theme
+Interestingly, we didn't really tackle the theme of the Gathering. In the end, it perhaps is the indicator, that the needs of the participants were focused elsewhere.
 
 ## Food
 The food was prepared by a team of two chefs, with rotating helpers stepping in voluntarily for every meal. This model worked extremely well - the meals were delicious and on time (in our previous gathering meals were significantly delayed).
@@ -237,7 +247,7 @@ Most of the food was sourced locally.
 
 Here's a pic of one of our chefs, looking like straight of a cookbook cover:
 
-![Farewell Chill](/.gitbook/assets/cookbook-sol.jpeg)
+![Cookbook Cover](/.gitbook/assets/cookbook-sol.jpeg)
 
 Ahh, and don't get me started on the epic sourdough bread baked on our community fire late at night, and the epic breadflip that almost went unnoticed:
 
@@ -249,7 +259,9 @@ Ahh, and don't get me started on the epic sourdough bread baked on our community
 The Gathering was supported by contributions to the Magic Well.
 
 Money In: €380
+
 Money Out: €261.58
+
 Total: +€118.42
 
 ## Retrospective
