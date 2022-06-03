@@ -35,7 +35,7 @@ With more people stepping into actively co-creating our Gathering, the magic was
 
 Here's how it happened.
 
-![Pico Community Gathering](/.gitbook/assets/pico-gathering-doors.jpg)
+![Pico Community Gathering](/.gitbook/assets/pico-gathering-doors.jpeg)
 
 *Photos by [Austeja Liupševičiūtė](https://austejaliu.com){:target="_blank"}, [Michał Korzonek](https://michalkorzonek.com) and Veronice.*
 
@@ -55,11 +55,11 @@ Here's how it happened.
 Here's [the invitation](https://docs.google.com/document/d/1d80KiO6tKb2o1aEzZ3rjtC4uQPZixF_LMfdPvw8uFgo/edit?usp=sharing) we have sent out to people, which was followed by an [info pack](https://docs.google.com/document/d/1nY9OSHHBhKSTEpeT0cmY8QSQ-Ji3CetjsPePnCEUdl0/edit?usp=sharing) (both docs edited for privacy).
 
 ## Site
-![Site of the Gathering](/.gitbook/assets/ruin-forest.jpg)
+![Site of the Gathering](/.gitbook/assets/ruin-forest.jpeg)
 
 Our site included a campsite, ruin with a roof (serving as our community centre), a fire space, and a cabin. There was also another private house offered as a "tea house" and two more private houses - one serving as a kitchen and other as eating area and backup activity space in case of bad weather. All venues are located within 10 minute walk.
 
-![Site of the Gathering](/.gitbook/assets/spring-gathering-map.jpg)
+![Site of the Gathering](/.gitbook/assets/spring-gathering-map.jpeg)
 
 It's the third time that we're hosting our Gatherings in this space, and every time we are gradually improving it, with everyone helping out during prep days. 
 
@@ -72,14 +72,14 @@ Here's what we did this time:
 - Moved the fire pit away from the campsite to keep it more silent.
 - Added swings and net to the playground (which has been unanimously decided as the best thing of the Gathering according to the kids)
 
-![The Net](/.gitbook/assets/net.jpg)
+![The Net](/.gitbook/assets/net.jpeg)
 
 *The net is just the best spot ever for the ultimate chill.*
 
 - Cleared a new path, setup a fire storage
 - Cleared a new area and setup fire space
 
-![Firespace](/.gitbook/assets/firespace.jpg)
+![Firespace](/.gitbook/assets/firespace.jpeg)
 
 *Sitting around the fire during the Night of Gifts.*
 
@@ -90,11 +90,11 @@ We also added significant improvements in the Ruin on many fronts:
 - added an outdoor sink
 - cleared space in front and setup a lounge area
 
-![Inside the Community Building](/.gitbook/assets/ruin-inside-end.jpg)
+![Inside the Community Building](/.gitbook/assets/ruin-inside-end.jpeg)
 
 *The Ruin is becoming a wonderful space*
 
-![The Ruin](/.gitbook/assets/ruin-front.jpg)
+![The Ruin](/.gitbook/assets/ruin-front.jpeg)
 
 *Front of the Ruin*
 
@@ -130,11 +130,11 @@ In the past, one host ([Michał](https://michalkorzonek.com/experiences)) was re
 
 Spoiler alert: it was the best decision we could have ever made.
 
-![Empty Program](/.gitbook/assets/open-space.jpg)
+![Empty Program](/.gitbook/assets/open-space.jpeg)
 
 *On the opening session participants could fill the spaces in the program according to their needs.*
 
-![Creating Activity Menu](/.gitbook/assets/activity-menu.jpg)
+![Creating Activity Menu](/.gitbook/assets/activity-menu.jpeg)
 
 *Which resulted in a beautiful plan for our days together fitting the needs of participants.*
 
@@ -152,17 +152,17 @@ HANDSHAKE VIDEO TWEET VIDEO
 
 **Waltdorf School Style Drawing Workshop** - we created portraits of each other and "community generated drawings", where we pass drawings around in quick rounds building upon what has been drawn.
 
-![Portrait](/.gitbook/assets/joao-portrait.jpg)
+![Portrait](/.gitbook/assets/joao-portrait.jpeg)
 
 *Charming lad, hey?*
 
-![Community Generated Drawings](/.gitbook/assets/community-generated-drawings.jpg)
+![Community Generated Drawings](/.gitbook/assets/community-generated-drawings.jpeg)
 
 *We then displayed all the artwork and had a little exhibition.*
 
 **Home Pods** - every day we'd meet in a group of three, which was randomly selected on the first day. The group would provide a space to check-in with each other and reflect on the day at the Gathering.
 
-![Pod Cards](/.gitbook/assets/pod-cards.jpg)
+![Pod Cards](/.gitbook/assets/pod-cards.jpeg)
 
 *Pods were determined by picking a card.*
 
@@ -181,27 +181,27 @@ It's worth mentioning that *Pico Coop* was the project that received the most su
 
 **Community Space Design** - we asked children to design their ideal Community Home, which they later presented to everyone.
 
-![Community Space Map Made By Kids](/.gitbook/assets/community-map-kids.jpg)
+![Community Space Map Made By Kids](/.gitbook/assets/community-map-kids.jpeg)
 
 *Kids presenting their design for our community space on the lounge area*
 
 **The Power of 10** - A workshop visualising mathematics
 
-![Power of Ten](/.gitbook/assets/power-of-ten.jpg)
+![Power of Ten](/.gitbook/assets/power-of-ten.jpeg)
 
 **Group Photo and Portrait** - It's kinda funny, but we never thought of taking a group photo during the past Gatherings. We decided to change that this time, and even took it a step further - and asked one of the participants (a visual artist) to create a portrait of us all.
 
-![Group Photo](/.gitbook/assets/spring-2022-group-photo.jpg)
+![Group Photo](/.gitbook/assets/spring-2022-group-photo.jpeg)
 
-![Group Portrait](/.gitbook/assets/spring-2022-group-portrait.jpg)
+![Group Portrait](/.gitbook/assets/spring-2022-group-portrait.jpeg)
 
 **Closing** - we combined closing session with getting feedback and last meeting of the Home Pod, to create more spaciousness in the afternoon. We finished with singing a few songs together.
 
-![Closing Ceremony](/.gitbook/assets/closing.jpg)
+![Closing Ceremony](/.gitbook/assets/closing.jpeg)
 
 **Farewell Party** - based on the success of the previous Gathering, we created our [Community Playlist](https://open.spotify.com/playlist/2FG1vM5rsEauhpWl6jVi7t?si=36b6434ab5ed49db) (where everyone picks one song to dance to for the party). Funny enough, instead of party, we felt like chilling and watching the setting Sun.
 
-![Farewell Chill](/.gitbook/assets/farewell-chill.jpg)
+![Farewell Chill](/.gitbook/assets/farewell-chill.jpeg)
 
 We also had **Thai Yoga** and **Energy Yoga** sessions. Also, Michał and João premiered a song they created.
 
@@ -209,15 +209,15 @@ We also had **Thai Yoga** and **Energy Yoga** sessions. Also, Michał and João 
 
 This time we also included "stalls" - we invited anyone form the Gathering to share their product and / or service, in order to bring more awareness of skills existing within our community. We had three offers displayed during the Gathering:
 
-![Offers](/.gitbook/assets/stalls.jpg)
+![Offers](/.gitbook/assets/stalls.jpeg)
 
 ### Gratitude Tokens
 
 During the first night, we introduced [Gratitude Tokens](https://michalkorzonek.com/gratitude-tokens) - a collaborative game designed to catalyse expressing gratitude within a community, prototyped in the [Traditional Dream Factory](https://traditionaldreamfactory.com/). 
 
-![Kid with Gratitude Token](/.gitbook/assets/gratitude-lara.jpg)
+![Kid with Gratitude Token](/.gitbook/assets/gratitude-lara.jpeg)
 
-![Gratitude Token Mining Station](/.gitbook/assets/gratitude-tokens-end.jpg)
+![Gratitude Token Mining Station](/.gitbook/assets/gratitude-tokens-end.jpeg)
 
 *That's our local Mining Station.*
 
@@ -237,7 +237,7 @@ Most of the food was sourced locally.
 
 Here's a pic of one of our chefs, looking like straight of a cookbook cover:
 
-![Farewell Chill](/.gitbook/assets/cookbook-sol.jpg)
+![Farewell Chill](/.gitbook/assets/cookbook-sol.jpeg)
 
 Ahh, and don't get me started on the epic sourdough bread baked on our community fire late at night, and the epic breadflip that almost went unnoticed:
 
