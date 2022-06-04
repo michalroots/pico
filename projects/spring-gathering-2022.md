@@ -209,7 +209,7 @@ Here's the scan of their creation:
 
 ![Farewell Chill](/.gitbook/assets/farewell-chill.jpeg)
 
-We also had **Thai Yoga** and **Energy Yoga** sessions. Also, Michał and João premiered a song they created.
+We also had **Thai Yoga**, **Energy Yoga** and **pilates** sessions. Also, Michał and João premiered a song they created.
 
 ### Stalls
 
@@ -238,7 +238,7 @@ Here's the scan of our gratitude ledger.
 ![Page 3](/.gitbook/assets/pico-gratitude3.jpg)
 
 ## Reflection on the Theme
-Interestingly, we didn't really tackle the theme of the Gathering. In the end, it perhaps is the indicator, that the needs of the participants were focused elsewhere.
+Interestingly, we didn't tackle the theme "Connecting Islands within the Island" in a direct way (eg. with a workshop). On the other hand, we had a lot of new people involved in the Gathering, including people from Faial and São Miguel, so perhaps the islands have indeed been connected.
 
 ## Food
 The food was prepared by a team of two chefs, with rotating helpers stepping in voluntarily for every meal. This model worked extremely well - the meals were delicious and on time (in our previous gathering meals were significantly delayed).
@@ -269,7 +269,8 @@ Total: +€118.42
 - Open space model and stalls encouraged more people to step into co-creating the gathering
 - Food system was perfect
 - Adding the role of the "Bell Boy / Bell Girl" - a person responsible to gently remind people when the new activity is about to start
-- Having a photographer
+- Having a photographer and a group photo
+- People from other islands
   
 ### Minus
 - Food contribution was not clear in the info pack - it resulted in some people contributing with a lot of food that was not communicated in advance leading to too much food left after the gathering and some of it going to waste.
@@ -281,6 +282,7 @@ Total: +€118.42
 - Consider having a week-long gathering with rotating participants and two / three consecutive days as a minimum commitment to participate
 - Create NFTs from community generated drawings? It could be a fun way to generate income for our community!
 - Keep adding secret handshakes every gathering!
+- Improve safety on site
 
 ## Conclusion and Next Steps
 **The main conclusion is that our congregation is maturing and we're ready to begin stepping into the process of acquiring a community home, which could support our activities in Pico on the way towards co-creating [the Azores Regenerative Network](/azores-regenerative-network.md).**
