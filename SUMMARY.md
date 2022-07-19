@@ -1,6 +1,6 @@
 # Table of contents
 
-* [About](web/pico/about.md)
+* [About](about.md)
 * [Azores Regenerative Network](azores-regenerative-network.md)
 * [Pico Congregation](/congregation/README.md)
 	* [Congregation Overview](congregation/congregation-overview.md)
