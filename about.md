@@ -1,5 +1,5 @@
 ---
-description: We are weaving a community in Pico Island by practicing microsolidarity. Here is our documentation.
+description: We are weaving a community in Pico Island by practicing microsolidarity.
 ---
 
 # Microsolidarity in Pico
