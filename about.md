@@ -37,11 +37,11 @@ You can **contribute with your suggestions to this documentation** by contacting
 On a different note: **community weaving and documenting is an important work, but it's tricky to get paid for it**. If you'd like to contribute financially, you can:
 
 - **make a small regular contribution** via my [Patreon page](https://www.patreon.com/michalkorzonek)
-- contribute with **cryptocurrency** (PM for details)
-- **work with me** on weaving your community and/or creating great documentation for it (PM for details)
+- contribute with **cryptocurrency** at michalroots.eth
+- **hire me to work with your organisation**. I create [experiences](https://michalkorzonek.com/experiences) and [documentation](https://michalkorzonek.com/documentation)
 
 ## Contact
-You can contact Michał via [twitter](https://twitter.com/michalkorzonek) or email: michal {dot} korzonek {at} {protonmail} {com}
+You can contact Michał via [twitter](https://twitter.com/michalkorzonek) or email: michalroots {at} protonmail.com
 
 I always get back to kind humans ✨
 
