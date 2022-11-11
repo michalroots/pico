@@ -21,7 +21,7 @@ On Saturday we focused on the Land where we host our events. We did some roof ma
 On Sunday, we had a free flow mix of conversations and activities.
 
 - We talked about [Traditional Dream Factory](https://traditionaldreamfactory.com) - a regenerative village in mainland Portugal, where I have been a Summer Steward. 
-- We discussed how the next stage of our community in Pico could look like. There seems to be some energy to find Land to host events, and explore co-ownership and sharing resources. For context, the Land where we currently host events is one of the possibilities we're exploring ([details in this document](https://docs.google.com/document/d/1Zbz3Ka5x7zVrJwBafn2mdW2oqRrdxNXoIMzwTkZiFIY/edit?usp=sharing)).
+- We discussed how the next stage of our community in Pico could look like. There seems to be some energy to find Land to host events, and explore co-ownership and sharing resources. For context, the Land where we currently host events is one of the possibilities we're exploring ([details in this document](https://docs.google.com/document/d/1Zbz3Ka5x7zVrJwBafn2mdW2oqRrdxNXoIMzwTkZiFIY/edit?usp=sharing)). We're also thinking of hosting a Festival in Spring 2023 - here's a [telegram group](https://t.me/+lH2ZhICqzfAyZDg0) if you're interested.
 - We created a few drawings
 - Aaaaand we built a super simple rat trap.
 - We also tasted coffee from the beans grown and roasted in the very village where we had our weekend together. Yes, it was delicious. And yes, Azores is the only place in Europe where you can grow coffee trees.
