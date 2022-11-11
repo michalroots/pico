@@ -4,7 +4,7 @@ description: A mini gathering
 
 The mini gathering started with a message in our Signal group sent a few months back, after seeing the reminder in my calendar that it's time to move the energy for another [Community Gathering](/projects/gatherings.md).
 
-![Invitation to the Community Weekend](../.gitbook/assets/pico-weekend-moving-energy.png)
+![Moving the energy for the Gathering](../.gitbook/assets/pico-weekend-moving-energy.png)
 
 While there was interest to gather, there seem to be very little hosting energy available. 
 
