@@ -27,6 +27,7 @@
   * [Community Action](projects/community-action.md)
   * [Pico Projects Map 🗺](projects/pico-projects-map.md)
 * [Articles](/articles/README.md)
+	* [Pico Community Weekend](/articles/pico-community-weekend.md)
 	* [Faial Community Day](/articles/faial-community-day.md)
 	* [Piconomics 101 🍪](articles/piconomics-101.md)
 	* [Inter Island Book Club 📚](articles/inter-island-book-club.md)
